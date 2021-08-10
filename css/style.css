@@ -7,3 +7,24 @@
 .container-cards {
     background: lightgray;
 }
+.img-grid {
+    object-fit: cover;
+}
+#text-modal {
+    width: 100%;
+    height: 150px;
+}
+.modal-icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 35px;
+    height: 35px;
+    border: 1px solid lightgrey;
+    border-radius: 50%;
+    margin-right: 2px;
+}
+.iconos-list {
+    width: 100%;
+    display: flex;
+}
